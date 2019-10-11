@@ -1,0 +1,13 @@
+http://52.136.215.164/links/locked.php - 423 
+http://52.136.215.164/links/movedper.php - 301 
+http://52.136.215.164/links/404not404found404.php - 404 
+http://52.136.215.164/links/found302.php - 302 
+http://52.136.215.164/links/return500bad.php - 500 
+http://52.136.215.164/links/deny403forbidden.php - 403 
+http://52.136.215.164/links/502gateaway502.php - 502 
+http://52.136.215.164/links/teapot418.php - 500 
+http://52.136.215.164/links/un503availible.php - 503 
+http://52.136.215.164/links/no204content.php - 204 
+http://52.136.215.164/links/access401unauthorized.php - 401 
+Links count: 11
+Date of the test: 7-10-2019

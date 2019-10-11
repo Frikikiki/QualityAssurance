@@ -1,0 +1,10 @@
+http://52.136.215.164/broken-links/index.html - 200 
+http://52.136.215.164/broken-links/about.html - 200 
+http://52.136.215.164/broken-links/work.html - 200 
+http://52.136.215.164/broken-links/pricing.html - 200 
+http://52.136.215.164/broken-links/blog.html - 200 
+http://52.136.215.164/broken-links/contact.html - 200 
+https://colorlib.com - 200 
+http://52.136.215.164/broken-links/blog-single.html - 200 
+Links count: 8
+Date of the test: 7-10-2019
